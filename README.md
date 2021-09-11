@@ -9,5 +9,5 @@ Introduction to NumPy,
 Linear Algebra Refresher,
 Introduction to Pandas.
 
-![image](https://user-images.githubusercontent.com/84038858/132960455-289d4ede-4d43-46ca-90e8-e88baf1051f8.png)
+![image](https://user-images.githubusercontent.com/84038858/132960735-56cf9eb0-c289-4afd-a7cf-7a134a786675.png)
 
